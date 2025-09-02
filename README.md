@@ -1,4 +1,4 @@
-# Olá, eu sou Lucas Liet! 👋
+# Olá, eu sou Lucas Oliveira! 👋
 
 Bem-vindo ao meu perfil do GitHub! Aqui você encontrará os projetos que refletem minha paixão por tecnologia, inovação e desenvolvimento contínuo. Acredito na força do código limpo, nas melhores práticas de segurança e na colaboração para criar soluções impactantes.
 
