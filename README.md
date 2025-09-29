@@ -20,16 +20,3 @@ Sou um entusiasta de tecnologia focado em aprender e compartilhar conhecimento. 
 ## 🌱 Aprendizado contínuo
 
 Estou sempre explorando novas tecnologias, frameworks e metodologias para me manter atualizado e entregar o melhor resultado possível.
-
----
-
-### Como posso tornar esse README ainda mais incrível e personalizado para você?
-
-Por favor, compartilhe as seguintes informações:
-- Sua profissão ou área de atuação
-- Suas principais habilidades (tecnologias, linguagens, frameworks)
-- Projetos favoritos ou destaque que deseja exibir aqui
-- Links para redes sociais (LinkedIn, Twitter, site pessoal, etc.)
-- Qualquer outra informação que gostaria de incluir (hobbies, valores, curiosidades)
-
-Assim, poderei refinar e deixar seu README ainda mais especial!
